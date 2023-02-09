@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.row{
+    width: 271px;
+
+}
+.img-box-box{
+    width: 100%;
+}
